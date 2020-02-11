@@ -1,6 +1,5 @@
 <?php
-echo "Primiro programa php.";eco "eai galera do al git 
-
-
-google ok privado;
+echo "Primiro programa php.";
+echo "eai galera do mal git!"; 
+private ok google;
 ?>
